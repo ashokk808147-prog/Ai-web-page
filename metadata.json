@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Interface",
+  "description": "A sleek, modern chat interface for your custom AI agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
